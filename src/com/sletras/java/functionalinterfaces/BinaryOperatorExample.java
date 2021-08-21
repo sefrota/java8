@@ -1,4 +1,4 @@
-package com.sletras.java.functionalInterfaces;
+package com.sletras.java.functionalinterfaces;
 
 import java.util.Comparator;
 import java.util.function.BinaryOperator;
